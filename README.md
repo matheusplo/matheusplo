@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, sou Matheus Lorenço 👋
 
-<!--
-**matheusplo/matheusplo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **AI Analyst** no CTE – Centro de Tecnologia de Edificações, atuando no desenvolvimento de soluções de inteligência artificial, automação de processos e produtos digitais para a construção civil.
 
-Here are some ideas to get you started:
+## 🚀 Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Inteligência artificial aplicada aos negócios
+- Automação de processos com n8n
+- Desenvolvimento de produtos digitais
+- Power BI, Power Query e análise de dados
+- Integrações entre sistemas e APIs
+- Transformação digital na construção civil
+- Gestão de projetos de IA e automação
+
+## 🛠️ Tecnologias e ferramentas
+
+- JavaScript e TypeScript
+- React
+- SQL
+- Power BI
+- Power Query
+- n8n
+- Supabase
+- Salesforce
+- Google Cloud
+- Git e GitHub
+- APIs e Webhooks
+
+## 🏗️ Projetos e interesses
+
+Tenho interesse em desenvolver soluções que utilizem inteligência artificial como motor para:
+
+- Aumentar a produtividade das equipes
+- Automatizar processos corporativos
+- Melhorar a qualidade e o uso dos dados
+- Criar produtos digitais escaláveis
+- Transformar processos da engenharia e construção civil
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/matheusplo/
+- Empresa: CTE – Centro de Tecnologia de Edificações
+- Localização: São Paulo, Brasil
